@@ -1,1 +1,2 @@
-# myfirstwebsite
+# My First Website
+By Julie Schult
